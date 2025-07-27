@@ -303,10 +303,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - FAISS for vector similarity search
 - FastAPI and Streamlit for the web framework
 
-## 📞 Support
-
-For questions and support, please open an issue on GitHub or contact the development team.
-
----
-
-**Note**: This system is designed for educational purposes and Bengali language processing. Ensure you have the necessary permissions to process any documents you upload to the system.
